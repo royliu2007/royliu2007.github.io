@@ -1,6 +1,3 @@
 ## Roy's Blog
-![Image of fast.ai logo](images/logo.png)
+![Image of fast.ai logo](images/bear02.jpg)
 
-## Roy's Blog
-
-[link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
